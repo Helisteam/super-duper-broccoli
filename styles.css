@@ -1,0 +1,110 @@
+@font-face {
+    font-family: CenturyGothic;
+    src: url(CenturyGothic.ttf);
+}
+
+@font-face {
+    font-family: CenturyGothicBold;
+    src: url(CenturyGothicBold.ttf);
+}
+
+.right {
+    float: right;
+    width: auto;
+    margin-top: 20%;
+    padding: 0;
+}
+
+
+.cinquante1 {
+    margin-top: 50%;
+    height: 50%;
+    width: 100%;
+    float: right;
+}
+
+#fonttext1 {
+    font-size: 400%;
+    padding: 0;
+}
+
+
+.image {
+    max-width: 30%;
+    height: auto;
+    float:right
+}
+
+#blue {
+    background-color: blueviolet;
+}
+
+.div1 {
+    background-color: #5CB7E7;
+    margin-top: 60%;
+    padding: 4%;
+    padding-left: 4%;
+    font-size: 4vw;
+    color: white;
+    font-family: CenturyGothic;
+    margin-bottom: 0%;
+}
+
+.div2 {
+    background-color: #003E69;
+    color: white;
+    font-family: CenturyGothic;
+    padding: .5%;
+    margin: 0;
+}
+
+.div3 {
+    background-color: gray;
+    margin-top:2% ;
+    font-size: 3vw;
+    color: white;
+    font-family: CenturyGothic;
+    padding :4%;
+    padding-bottom: 2%;
+    border-radius: 0 0 0 50px;
+}
+
+.textright {
+    text-align: end;
+}
+
+.notwhite {
+    color:darkslategrey
+}
+
+#bold {
+    font-family: CenturyGothicBold;
+}
+
+#notbold {
+    font-family: CenturyGothic;
+    font-size: 2.5vw;
+    color: #003E69;
+}
+
+
+#bold1 {
+    font-family: CenturyGothicBold;
+    font-size: 4.5vw;
+    color: #003E69;
+    font-weight: 900;
+}
+
+#fontsize {
+    font-size: 50%;
+}
+
+body {
+    line-height: 1;
+    padding:1%
+}
+
+b {
+    font-size: 160%;
+}
+
